@@ -26,11 +26,3 @@ Open the project in your browser.
 Click on the "Sign Up" button to create a new account or log in if you have already registered.
 After logging in, you can view the available slots, select a slot, and book it.
 You can also manage your bookings by clicking on the "My Bookings" button in the navigation menu.
-
-Contribution
-
-This project is open-source, and contributions are welcome. You can contribute to the project by submitting bug reports, feature requests, or code improvements.
-
-License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute the project under the terms of this license.
